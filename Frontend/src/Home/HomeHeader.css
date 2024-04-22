@@ -1,0 +1,47 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: linear-gradient(135deg, #6c63ff, #a7a9ff);
+  padding: 5px 20px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.logo {
+  font-size: 2rem;
+  color: #fff;
+}
+
+.title-container {
+  flex-grow: 1;
+}
+
+.title {
+  margin: 0;
+  color: #fff;
+}
+
+.header-profile {
+  display: flex;
+  align-items: center;
+}
+
+.username {
+  margin-right: 10px;
+  color: #fff;
+}
+
+.logout-btn {
+  color: #6c63ff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
