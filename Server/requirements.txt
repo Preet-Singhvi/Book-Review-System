@@ -1,0 +1,8 @@
+bcrypt
+flask
+flasgger
+flask-cors
+passlib
+pymongo
+pydantic
+PyJWT
