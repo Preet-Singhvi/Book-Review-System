@@ -21,7 +21,7 @@ export const GetBookById = async(id) => {
     return response.data
 }
 
-export const AddBook = async(BookForm) => {
+export const AddBooks = async(BookForm) => {
     let response = await axios.post(
         `http://localhost:5000/books/`,BookForm
     )
