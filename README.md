@@ -32,10 +32,10 @@ API Documentation
 	2. User Sign-in: Sign in as a registered user by sending a POST request to /signin endpoint with the user's email and password in 
            the request body.
 	3. Book Management:
-           - Add a new book by sending a POST request to /books/ endpoint with book details in the request body.
-           - List all books by sending a GET request to /books/all/ endpoint.
-	   - Get details of a specific book by its ID by sending a GET request to /books/<book_id>/ endpoint.
-           - Update book information by sending a PUT request to /books/<book_id>/ endpoint with updated book details in the request body.
+           1.Add a new book by sending a POST request to /books/ endpoint with book details in the request body.
+           2. List all books by sending a GET request to /books/all/ endpoint.
+	   3. Get details of a specific book by its ID by sending a GET request to /books/<book_id>/ endpoint.
+           4. Update book information by sending a PUT request to /books/<book_id>/ endpoint with updated book details in the request body.
 
 
 # Book Review System - Frontend
