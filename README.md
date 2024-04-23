@@ -11,7 +11,7 @@ Features
 
 	1. Installation:
 		    Clone the repository to your local machine:
-		    	git clone https://github.com/your_username/book-management-system.git
+		    	git clone https://github.com/Preet-Singhvi/Book-Review-System/.git
 	2. Install dependencies:
 		    pip install -r requirements.txt
 	3. Set up MongoDB:
@@ -61,7 +61,7 @@ Technologies Used
 Installation
 1. Installation:
    	Clone the repository to your local machine:
-		git clone https://github.com/your_username/book-management-system.git
+		git clone https://github.com/Preet-Singhvi/Book-Review-System/.git
 2. Navigate to the project directory:
    	cd frontend
 3. Install dependencies:
