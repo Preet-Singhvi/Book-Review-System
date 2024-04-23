@@ -186,7 +186,10 @@ const AddBook = ({
                     var msg = "Description is required.";
                   } else if (image == null) {
                     var msg = "Image is required.";
-                  } else {
+                  } else if (genre == null) {
+                    var msg = "Genre is required.";
+                  } 
+                  else {
                     let response = await AddBooks({
                       image: image,
                       title: title,
