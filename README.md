@@ -2,7 +2,6 @@
 Book Management System
 The Book Management System is a Flask-based web application that provides functionalities for managing books and user authentication. It allows users to register, sign in, add books, list all books, get book details by ID, and update book information.
 
------------------------------------- SERVER ------------------------------------------------------
 Features
 	User Registration and Authentication: Users can register with their name, email, and password. They can then sign in using their 
   registered credentials.
